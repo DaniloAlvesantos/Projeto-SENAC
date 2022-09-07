@@ -1,0 +1,12 @@
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\bin\Debug\Projeto_integrador.exe.config
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\bin\Debug\Projeto_integrador.exe
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\bin\Debug\Projeto_integrador.pdb
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.AssemblyReference.cache
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Form1.resources
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Properties.Resources.resources
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.GenerateResource.cache
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.csproj.CoreCompileInputs.cache
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.exe
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.pedido.resources
