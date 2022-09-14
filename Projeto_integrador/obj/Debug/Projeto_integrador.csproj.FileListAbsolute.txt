@@ -10,3 +10,4 @@ C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj
 C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.exe
 C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.pdb
 C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.pedido.resources
+C:\Users\danilo.asantos31\source\repos\Projeto_integrador\Projeto_integrador\obj\Debug\Projeto_integrador.Formularios.produtos.resources

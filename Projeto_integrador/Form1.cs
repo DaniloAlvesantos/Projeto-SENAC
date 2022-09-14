@@ -135,6 +135,11 @@ namespace Projeto_integrador
 
         private void panel3_MouseClick(object sender, MouseEventArgs e)
         {
+            MessageBox.Show("Olá");
+        }
+
+        private void panel6_Paint(object sender, PaintEventArgs e)
+        {
             Formularios.pedido t = new Formularios.pedido();
             t.Show();
         }

@@ -177,6 +177,7 @@
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(363, 107);
             this.panel6.TabIndex = 5;
+            this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
             this.panel6.MouseLeave += new System.EventHandler(this.panel6_MouseLeave);
             this.panel6.MouseHover += new System.EventHandler(this.panel6_MouseHover);
             // 
