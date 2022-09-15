@@ -12,7 +12,7 @@ namespace Projeto_integrador
 {
     public partial class Form1 : Form
     {
-        Boolean dark = false;
+        Boolean dark = true;
 
         public Form1()
         {

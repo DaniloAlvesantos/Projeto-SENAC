@@ -58,13 +58,27 @@
     <Compile Include="Formularios\pedido.Designer.cs">
       <DependentUpon>pedido.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\produtos.Designer.cs">
+      <DependentUpon>produtos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="stareletronicsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>stareletronicsDataSet.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\pedido.resx">
       <DependentUpon>pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\produtos.resx">
+      <DependentUpon>produtos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -84,6 +98,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="stareletronicsDataSet.xsc">
+      <DependentUpon>stareletronicsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="stareletronicsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>stareletronicsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="stareletronicsDataSet.xss">
+      <DependentUpon>stareletronicsDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
